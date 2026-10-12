@@ -1,4 +1,4 @@
-# Task 1 – Data Cleaning & Visualization Project
+# Data Cleaning & Visualization Project
 
 **Goal:** Clean a raw dataset, process it, and visualize insights using Python (Pandas, Matplotlib, Seaborn).
 
